@@ -1,0 +1,12 @@
+{
+  "name": "link-stylesheet-html-webpack-plugin",
+  "description": "Handle the attributes of the style sheet tag link",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:flexiooss/link-stylesheet-html-webpack-plugin.git",
+  "author": "Thomas Chatelain (https://github.com/TomAchT)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "object-assign": "^4.1.1"
+  }
+}

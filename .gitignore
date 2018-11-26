@@ -1,0 +1,9 @@
+dist/
+libs/
+node_modules/
+*.log
+*.lock
+.vscode/
+flexio-ci-client.iml
+.idea/
+*.iml
